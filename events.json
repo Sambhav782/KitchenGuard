@@ -1,0 +1,27 @@
+[
+    {
+        "personId": 2,
+        "time": "23:38:22",
+        "snapshot": "snapshots/intrusion_20260909_233822_434243.jpg"
+    },
+    {
+        "personId": 3,
+        "time": "23:38:22",
+        "snapshot": "snapshots/intrusion_20260909_233822_764444.jpg"
+    },
+    {
+        "personId": 1,
+        "time": "23:38:36",
+        "snapshot": "snapshots/intrusion_20260909_233836_065932.jpg"
+    },
+    {
+        "personId": 4,
+        "time": "23:39:34",
+        "snapshot": "snapshots/intrusion_20260909_233934_630619.jpg"
+    },
+    {
+        "personId": 3,
+        "time": "23:39:51",
+        "snapshot": "snapshots/intrusion_20260909_233951_321433.jpg"
+    }
+]
