@@ -1,3 +1,7 @@
 ultralytics
 opencv-python
+<<<<<<< HEAD
 numpy
+=======
+numpy
+>>>>>>> 1ec6f0513ceda7f6d5c07871e5a72674bf21de65
